@@ -1,5 +1,5 @@
 import * as http from "http";
-import {IncomingMessage, request, ServerResponse} from "http";
+import {IncomingMessage, ServerResponse} from "http";
 import {Buffer} from "buffer";
 
 
